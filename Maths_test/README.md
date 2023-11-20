@@ -20,7 +20,7 @@ if result == "yes":
 
 print("Thanks - your data will be uploaded.")
 
-#send_to_google_form(data_dict, form_url)
+send_to_google_form(data_dict, form_url)
 
 else:
 
